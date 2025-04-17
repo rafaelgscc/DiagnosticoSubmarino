@@ -1,0 +1,15 @@
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\DiagnosticoSubmarino.exe
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\DiagnosticoSubmarino.deps.json
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\DiagnosticoSubmarino.runtimeconfig.json
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\DiagnosticoSubmarino.dll
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\DiagnosticoSubmarino.pdb
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.AssemblyInfoInputs.cache
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.AssemblyInfo.cs
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.csproj.CoreCompileInputs.cache
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.sourcelink.json
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.dll
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\refint\DiagnosticoSubmarino.dll
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.pdb
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.genruntimeconfig.cache
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\ref\DiagnosticoSubmarino.dll

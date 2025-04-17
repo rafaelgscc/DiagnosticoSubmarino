@@ -16,32 +16,35 @@ public class CalculaGamaEpisilonStrategy : IDiagnosticoStrategy
         {
             for(int i = 0; i<tamanhoBit; i++)
             {
-                if(binario[i]==1)
+                if(binario[i]== '1')
                     count[i]++;
             }
         }
 
         string gamaString = "", episilonString = "";
-        int metade = relatorio.Count / 2;
+        double metade = relatorio.Count / 2.0;
 
         //juncao da string com os valores de Gama e de Epision
 
         for(int i = 0; i < tamanhoBit; i++)
         {
             //fazendo a verificacao das colunas
-            if(count[i]>metade)
+            if(count[i]>= metade)
             {
                 gamaString += "1";
                 episilonString += "0";
             }
             else
             {
-                 gamaString += "1";
-                episilonString += "0";
+                gamaString += "0";
+                episilonString += "1";
             }
         }
 
         //converter valores para decimal
+
+        Console.WriteLine($"Gama: {gamaString}");
+        Console.WriteLine($"Episilon:{episilonString}");
 
         int gama = Convert.ToInt32(gamaString, 2);
         int episilon = Convert.ToInt32(episilonString, 2);
