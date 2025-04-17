@@ -16,7 +16,7 @@ public class CalculaGamaEpisilonStrategy : IDiagnosticoStrategy
         {
             for(int i = 0; i<tamanhoBit; i++)
             {
-                if(binario[i]== '1')
+                if(binario[i] == '1')
                     count[i]++;
             }
         }
@@ -43,8 +43,8 @@ public class CalculaGamaEpisilonStrategy : IDiagnosticoStrategy
 
         //converter valores para decimal
 
-        Console.WriteLine($"Gama: {gamaString}");
-        Console.WriteLine($"Episilon:{episilonString}");
+        Console.WriteLine($"Gama binario: {gamaString}");
+        Console.WriteLine($"Episilon binario:{episilonString}");
 
         int gama = Convert.ToInt32(gamaString, 2);
         int episilon = Convert.ToInt32(episilonString, 2);

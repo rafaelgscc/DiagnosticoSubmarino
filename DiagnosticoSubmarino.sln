@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticoSubmarino", "DiagnosticoSubmarino\DiagnosticoSubmarino.csproj", "{080FF711-5EA0-42D7-825F-1F5DC3C7F6F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticoSubmarinoTests", "DiagnosticoSubmarinoTests\DiagnosticoSubmarinoTests.csproj", "{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{080FF711-5EA0-42D7-825F-1F5DC3C7F6F6}.Release|x64.Build.0 = Release|Any CPU
 		{080FF711-5EA0-42D7-825F-1F5DC3C7F6F6}.Release|x86.ActiveCfg = Release|Any CPU
 		{080FF711-5EA0-42D7-825F-1F5DC3C7F6F6}.Release|x86.Build.0 = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|x64.Build.0 = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Debug|x86.Build.0 = Debug|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|x64.ActiveCfg = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|x64.Build.0 = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|x86.ActiveCfg = Release|Any CPU
+		{2A8DFB08-3BAC-4785-B79A-8D59454EADDB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
