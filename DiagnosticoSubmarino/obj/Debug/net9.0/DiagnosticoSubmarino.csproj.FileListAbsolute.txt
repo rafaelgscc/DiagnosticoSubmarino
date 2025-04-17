@@ -13,3 +13,4 @@ C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\refint
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.pdb
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\DiagnosticoSubmarino.genruntimeconfig.cache
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\obj\Debug\net9.0\ref\DiagnosticoSubmarino.dll
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarino\bin\Debug\net9.0\relatorio.json
