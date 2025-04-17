@@ -104,3 +104,4 @@ C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarinoTests\obj\Debug\net9.0\r
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarinoTests\obj\Debug\net9.0\DiagnosticoSubmarinoTests.pdb
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarinoTests\obj\Debug\net9.0\DiagnosticoSubmarinoTests.genruntimeconfig.cache
 C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarinoTests\obj\Debug\net9.0\ref\DiagnosticoSubmarinoTests.dll
+C:\Users\rafae\DiagnosticoSubmarino\DiagnosticoSubmarinoTests\bin\Debug\net9.0\relatorio.json

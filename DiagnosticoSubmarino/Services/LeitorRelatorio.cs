@@ -19,6 +19,7 @@ public class LeitorRelatorio
 
         var json = File.ReadAllText(fullPath);
         var relatorio = JsonSerializer.Deserialize<List<string>>(json);
+        //usado um operador de coalescência nula mais elegante que verificar se relatorio é NULL
         return relatorio ?? new List<string>();
     }
 
