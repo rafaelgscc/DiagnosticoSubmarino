@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiagnosticoSubmarino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a469c6b6dd4a68f3b8edf3ecb739d573d69700ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0e65d4cffdf66cfdc69a8777ca7cd312f2a896")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiagnosticoSubmarino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiagnosticoSubmarino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

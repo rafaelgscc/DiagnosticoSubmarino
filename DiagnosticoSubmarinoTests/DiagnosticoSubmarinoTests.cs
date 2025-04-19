@@ -7,7 +7,7 @@ namespace DiagnosticoSubmarinoTests;
 public class DiagnosticoSubinarinoTests
 {
     [Fact]
-    public void Test1()
+    public void CalculaTaxasEsperado()
     {
 
         var relatorio = LeitorRelatorio.LerRelatorioJSON("relatorio.json");
